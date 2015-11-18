@@ -5,12 +5,12 @@ public class einmaleins {
 	{
 		for (int h=1;h<=10; h++)
 		{
-		for(int v=1;v<=10; v++)	
-		{
-			System.out.print((h*v)+ "\t");
-		}
+			for(int v=1;v<=10; v++)	
+			{
+				System.out.print((h*v)+ "\t");
+			}
 		System.out.println();
 		}
-		
+		System.out.println();
 	}
 }
